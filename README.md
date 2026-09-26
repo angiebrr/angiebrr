@@ -6,19 +6,6 @@ I'm looking for **backend, platform, distributed systems, or security** roles.
 
 Most of my professional work lives in company repos, so what's here is self-study, grad school, and my early sysadmin days.
 
-## Pinned Work
-
-| Repo | What it is |
-|---|---|
-| [athenas-telemetry-svc](https://github.com/angiebrr/athenas-telemetry-svc) | A distributed telemetry ingestion service in Go that I'm building milestone by milestone with outside-in TDD |
-| [um-thesis-particle-optimization](https://github.com/angiebrr/um-thesis-particle-optimization) | My master's thesis exploring multithreaded performance in a C++ game engine's particle system, including a lock-free version that cut time in its most contended function by up to 86% |
-| [nipnapped-dungeon](https://github.com/angiebrr/nipnapped-dungeon) | A C++ roguelike about my cat Lucky, built with libtcod |
-| [um-csci595-parallel-programming-projects](https://github.com/angiebrr/um-csci595-parallel-programming-projects) | Tuned C, OpenMP/MPI, and CUDA for a parallel programming course |
-| [ntsg-combining-ad-nis-ansible](https://github.com/angiebrr/ntsg-combining-ad-nis-ansible) | An Ansible playbook that joins CentOS servers to Active Directory while keeping NIS for identities |
-| [ntsg-backup-scripts](https://github.com/angiebrr/ntsg-backup-scripts) | Self-contained Linux and Windows backup tools for a research group |
-
-## Everything else, by group
-
 | Group | What's in it |
 |---|---|
 | [Self-study](https://github.com/angiebrr?tab=repositories&q=topic%3Aself-study) | Things I'm learning on my own time |
